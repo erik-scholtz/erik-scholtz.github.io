@@ -1,1 +1,1 @@
-# ErikScholtzH.github.io
+# erik-scholtz.github.io

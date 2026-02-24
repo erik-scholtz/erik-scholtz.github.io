@@ -3,6 +3,7 @@ import { defineConfig } from "@solidjs/start/config";
 export default defineConfig({
   ssr: false,
   server: {
+    baseURL: process.env.GH_PAGES ? "/erik-scholtz.github.io/" : "/",
     prerender: {
       routes: ["/", "/about"],
     },

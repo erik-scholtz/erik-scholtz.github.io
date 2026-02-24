@@ -12,6 +12,7 @@ node_modules/
 .vinxi/
 dist/
 build/
+_site/
 *.tsbuildinfo
 
 # Environment files
